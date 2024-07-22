@@ -1,4 +1,4 @@
-### README for the AlgorithmsLearning Project
+### AlgorithmsLearning Project
 
 #### Introduction
 The AlgorithmsLearning project is dedicated to learning and implementing fundamental algorithms using Java. The focus of this project is on creating clear, efficient, and well-documented code to solve classic problems in computer science.
